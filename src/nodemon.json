@@ -1,0 +1,4 @@
+{
+    "MONGO_URL": "mongodb+srv://admin:admin@cluster0.zobm7uy.mongodb.net/test?retryWrites=true&w=majority"
+
+}
